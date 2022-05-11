@@ -26,3 +26,9 @@
 .VH{ color: mediumslateblue;
 
 }
+.copy{
+   text-align: center;
+}
+.left{
+   text-align: right;
+}
