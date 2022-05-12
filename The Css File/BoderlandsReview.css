@@ -26,9 +26,11 @@
 .VH{ color: mediumslateblue;
 
 }
-.copy{
-   text-align: center;
-}
-.left{
+.signin{
    text-align: right;
+}
+.signup{ padding-left: 21cm;
+}
+body{
+  
 }
